@@ -2,7 +2,7 @@
     Client = "LitkaClient";
     javaUrl = "https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.zip";
     assetsUrl = "https://www.dropbox.com/scl/fi/pzukqrgym4pdymmr0tlep/assets.zip?rlkey=x7iwnpzj7ibeesvn0jto0kpw7&st=yo406tyb&raw=1";
-    clientUrl = "https://www.dropbox.com/scl/fi/znn08n39wzyv5f1u5k1tv/Client.zip?rlkey=wfvdo2rgdewv1ar7k58c209mc&st=7ydymwrr&raw=1"
+    clientUrl = "https://www.dropbox.com/scl/fi/hi8pbxd1dxx37iiz4pk3f/Client.zip?rlkey=ajvhulx8wymqjnt96svac00jx&st=pv356l2s&raw=1"
 }
 {
     Client = "Catlavan";
