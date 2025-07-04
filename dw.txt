@@ -2,11 +2,11 @@
     Client = "LitkaClient";
     javaUrl = "https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.zip";
     assetsUrl = "https://www.dropbox.com/scl/fi/pzukqrgym4pdymmr0tlep/assets.zip?rlkey=x7iwnpzj7ibeesvn0jto0kpw7&st=yo406tyb&raw=1";
-    clientUrl = "https://www.dropbox.com/scl/fi/23p0blp0crul3yb7s3ek8/Client.zip?rlkey=uoli1sp7rfi5w9rk7czs72hja&st=3orgaqfy&raw=1"
+    clientUrl = "https://www.dropbox.com/scl/fi/aqws13kgep7jygnrzmbh3/Client.zip?rlkey=qvydcwrtlhbuig8ed0sgstg50&st=gfejxqyd&raw=1"
 }
 {
     Client = "Catlavan";
     javaUrl = "https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.zip";
     assetsUrl = "https://www.dropbox.com/scl/fi/pzukqrgym4pdymmr0tlep/assets.zip?rlkey=x7iwnpzj7ibeesvn0jto0kpw7&st=yo406tyb&raw=1";
-    clientUrl = "https://www.dropbox.com/scl/fi/asp7lpzcp5ckpp4s3movp/Client.zip?rlkey=i3hfgkrnmexvzl7n30p2drn1n&st=5we65bfb&raw=1"
+    clientUrl = "https://www.dropbox.com/scl/fi/a6jklvmb3wom6zw43goq9/Client.zip?rlkey=ubsksrbev7jh23szbs7sszfu2&st=2fcei967&raw=1"
 }
