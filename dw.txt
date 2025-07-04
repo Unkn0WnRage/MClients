@@ -1,0 +1,6 @@
+{
+    Client = "LitkaClient";
+    javaUrl = "";
+    assetsUrl = "";
+    clientUrl = ""
+}
